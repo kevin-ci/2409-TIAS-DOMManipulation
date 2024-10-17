@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+img {
+    max-height: 400px;
+}
+
+.health-display {
+    font-size: x-large;
+}
